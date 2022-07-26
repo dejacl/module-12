@@ -15,10 +15,6 @@ Build an interactive website using JavaScript to make data visualizations attrac
 - Deploy the final work to Github pages.
 
 
-### Webpage
-
-The interactive webpage can be found here: https://biancataisepommerening.github.io/Plotly_Deployment/
-
 
 ### Horizontal Bar Chart
 
